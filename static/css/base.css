@@ -1,0 +1,6 @@
+body {
+	/* Since we have a fixed navbar, it covers content */
+	padding-top: 50px;
+
+	padding-bottom : 20px;
+}
